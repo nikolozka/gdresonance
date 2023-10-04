@@ -1,0 +1,8 @@
+[gd_resource type="AudioBusLayout" load_steps=2 format=3 uid="uid://do2clqaqsr52p"]
+
+[sub_resource type="GDResonanceEffect" id="GDResonanceEffect_fvwyx"]
+resource_name = "GDResonanceEffect"
+
+[resource]
+bus/0/effect/0/effect = SubResource("GDResonanceEffect_fvwyx")
+bus/0/effect/0/enabled = true
